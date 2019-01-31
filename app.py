@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import usaddress
 from address_standardizer import AddressStandardizer
-import address_stand_v2
+import addressStandardizer_2
 
 import collections
 
